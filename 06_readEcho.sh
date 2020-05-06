@@ -1,6 +1,6 @@
 # ! /bin/bash
 # Programa para ejemplificar como capturar la información del usuario utilizando el comando echo, read y $REPLY
-# Autor: Marco Toscano Freire - @martosfre
+# Autor: Jaiden Meiden @jaidenmeiden
 
 option=0
 backupName=""

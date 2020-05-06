@@ -1,6 +1,6 @@
 # ! /bin/bash
 # Programa para revisar los tipos de operadores
-# Autor: Marco Toscano - @martosfre
+# Autor: Jaiden Meiden @jaidenmeiden
 
 numA=10
 numB=4

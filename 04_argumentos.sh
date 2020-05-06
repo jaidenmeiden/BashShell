@@ -1,6 +1,6 @@
 # ! /bin/bash
 # Programa para ejemplificar el paso de argumentos
-# Autor: Marco Toscano Freire - @martosfre
+# Autor: Jaiden Meiden @jaidenmeiden
 
 nombreCurso=$1
 horarioCurso=$2
